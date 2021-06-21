@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kashif.mehmood/AndroidStudioProjects/SplashScreenAPI/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/kashif.mehmood/AndroidStudioProjects/SplashScreenAPI/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/kashif.mehmood/AndroidStudioProjects/SplashScreenAPI/app/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/kashif.mehmood/AndroidStudioProjects/SplashScreenAPI/app/src/main/res/layout/content_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/kashif.mehmood/AndroidStudioProjects/SplashScreenAPI/app/src/main/res/layout/fragment_second.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/kashif.mehmood/AndroidStudioProjects/SplashScreenAPI/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3828125" />
+        <entry key="..\:/Users/kashif.mehmood/AndroidStudioProjects/SplashScreenAPI/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3828125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.4361111111111111" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

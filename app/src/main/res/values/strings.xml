@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Splash Screen Api</string>
+    <string name="welcome_to_jetpack_world">Welcome To Jetpack World</string>
+</resources>
